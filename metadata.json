@@ -1,0 +1,8 @@
+{
+  "name": "Remix DFM Loop Tracker - Advanced Operations Drawing Traceability",
+  "description": "Interactive drawing ballooning, multi-stakeholder feedback matrix (AO, Inspection, R\u0026D, Supplier), and revision-to-revision DFM loop traceability with visual comparison and portable export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
